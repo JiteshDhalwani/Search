@@ -11,10 +11,10 @@ Your website must meet the following requirements:
 4. Like Google’s own, your search bar should be centered with rounded corners. The search button should also be centered, and should be beneath the search bar.
 5. On the Google Image Search page, the user should be able to type in a query, click a search button, and be taken to the Google Image search results for that page.
 6. On the Google Advanced Search page, the user should be able to provide input for the following four fields (taken from Google’s own advanced search options)
-        * Find pages with… “all these words:”
-        * Find pages with… “this exact word or phrase:”
-        * Find pages with… “any of these words:”
-        * Find pages with… “none of these words:”
+       * Find pages with… “all these words:”
+       * Find pages with… “this exact word or phrase:”
+       * Find pages with… “any of these words:”
+       * Find pages with… “none of these words:”
 7. Like Google’s own Advanced Search page, the four options should be stacked vertically, and all of the text fields should be left aligned.
 8. Add an “I’m Feeling Lucky” button to the main Google Search page. Consistent with Google’s own behavior, clicking this link should take users directly to the first Google search result for the query, bypassing the normal results page.
 9. You may encounter a redirect notice when using the “I’m Feeling Lucky” button. Not to worry! This is an expected consequence of a security feature implemented by Google.
